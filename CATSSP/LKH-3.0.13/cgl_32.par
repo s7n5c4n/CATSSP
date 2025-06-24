@@ -1,0 +1,3 @@
+PROBLEM_FILE = cgl_32.tsp
+OUTPUT_TOUR_FILE = cgl_32.sol
+RUNS = 10

@@ -1,0 +1,26 @@
+NAME : cgl_17.4422.tour
+COMMENT : Length = 4422
+COMMENT : Found by LKH-3 [Keld Helsgaun] Mon Jun 23 23:18:34 2025
+TYPE : TOUR
+DIMENSION : 18
+TOUR_SECTION
+9
+14
+13
+12
+10
+11
+15
+18
+3
+1
+2
+4
+5
+6
+7
+8
+17
+16
+-1
+EOF
