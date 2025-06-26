@@ -1,0 +1,36 @@
+NAME : cgl_28.3654.tour
+COMMENT : Length = 3654
+COMMENT : Found by LKH-3 [Keld Helsgaun] Fri Nov  8 19:20:29 2024
+TYPE : TOUR
+DIMENSION : 28
+TOUR_SECTION
+21
+13
+23
+24
+25
+27
+26
+28
+1
+2
+4
+6
+9
+11
+8
+7
+12
+5
+10
+22
+3
+20
+19
+15
+14
+16
+17
+18
+-1
+EOF
