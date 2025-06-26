@@ -1,0 +1,13 @@
+set NODES := 0 1 2 3;
+
+param C :
+    0   1   2   3 :=
+ 0  1963 300 200 654
+ 1 305  1963 963 117
+ 2 952 493  1963 704
+ 3 678 123 951  1963 ;
+
+set PROHIBITED := ;
+
+param start_node := 0;
+param end_node := 3;
