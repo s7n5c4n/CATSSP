@@ -1,0 +1,91 @@
+Instancia,Algotitmo,Costo Total,Tiempo (s),Solucion Valida
+cgl_66.catsp,Greedy,3005470.0,0.0010571479797363281,True
+cgl_66.catsp,Neighbourhood Search,inf,0.011872053146362305,False
+cgl_66.catsp,GRASP,inf,0.2698981761932373,False
+cgl_38.catsp,Greedy,1002019.0,0.00013899803161621094,True
+cgl_38.catsp,Neighbourhood Search,3592.0,0.0033071041107177734,True
+cgl_38.catsp,GRASP,2630.0,0.33058834075927734,True
+cgl_60.catsp,Greedy,1006992.0,0.00029397010803222656,True
+cgl_60.catsp,Neighbourhood Search,inf,0.006951808929443359,False
+cgl_60.catsp,GRASP,inf,0.1334857940673828,False
+cgl_51b.catsp,Greedy,2003586.0,0.0002181529998779297,True
+cgl_51b.catsp,Neighbourhood Search,inf,0.0035560131072998047,False
+cgl_51b.catsp,GRASP,inf,0.1981041431427002,False
+cgl_44.catsp,Greedy,2008516.0,0.0001652240753173828,True
+cgl_44.catsp,Neighbourhood Search,inf,0.0024089813232421875,False
+cgl_44.catsp,GRASP,inf,0.07006573677062988,False
+cgl_81.catsp,Greedy,2010613.0,0.0005078315734863281,True
+cgl_81.catsp,Neighbourhood Search,inf,0.014333724975585938,False
+cgl_81.catsp,GRASP,inf,0.5143270492553711,False
+cgl_58.catsp,Greedy,4199.0,0.0002689361572265625,True
+cgl_58.catsp,Neighbourhood Search,3921.0,0.03451800346374512,True
+cgl_58.catsp,GRASP,2619.0,0.6280779838562012,True
+cgl_43.catsp,Greedy,2002458.0,0.00019788742065429688,True
+cgl_43.catsp,Neighbourhood Search,inf,0.0038001537322998047,False
+cgl_43.catsp,GRASP,4699.0,0.37650203704833984,True
+cgl_47.catsp,Greedy,2004705.0,0.0001971721649169922,True
+cgl_47.catsp,Neighbourhood Search,inf,0.004011869430541992,False
+cgl_47.catsp,GRASP,5267.0,0.5111780166625977,True
+cgl_26.catsp,Greedy,3003386.0,7.081031799316406e-05,True
+cgl_26.catsp,Neighbourhood Search,inf,0.0003910064697265625,False
+cgl_26.catsp,GRASP,6844.0,0.0322420597076416,True
+cgl_114.catsp,Greedy,1013455.0,0.0009942054748535156,True
+cgl_114.catsp,Neighbourhood Search,inf,0.058361053466796875,False
+cgl_114.catsp,GRASP,inf,1.5110058784484863,False
+cgl_45.catsp,Greedy,3006583.0,0.0001709461212158203,True
+cgl_45.catsp,Neighbourhood Search,inf,0.0025510787963867188,False
+cgl_45.catsp,GRASP,inf,0.06843900680541992,False
+cgl_78.catsp,Greedy,3008991.0,0.00047397613525390625,True
+cgl_78.catsp,Neighbourhood Search,inf,0.011578083038330078,False
+cgl_78.catsp,GRASP,inf,0.268068790435791,False
+cgl_28.catsp,Greedy,1002334.0,7.224082946777344e-05,True
+cgl_28.catsp,Neighbourhood Search,inf,0.0008168220520019531,False
+cgl_28.catsp,GRASP,2571.0,0.10006093978881836,True
+cgl_50.catsp,Greedy,1004956.0,0.0002579689025878906,True
+cgl_50.catsp,Neighbourhood Search,inf,0.002791881561279297,False
+cgl_50.catsp,GRASP,inf,0.08937215805053711,False
+cgl_17.catsp,Greedy,1003169.0,3.409385681152344e-05,True
+cgl_17.catsp,Neighbourhood Search,inf,0.0002071857452392578,False
+cgl_17.catsp,GRASP,4355.0,0.01252603530883789,True
+cgl_33.catsp,Greedy,3004671.0,0.00010204315185546875,True
+cgl_33.catsp,Neighbourhood Search,inf,0.0006778240203857422,False
+cgl_33.catsp,GRASP,inf,0.04572415351867676,False
+cgl_76.catsp,Greedy,1011112.0,0.00044274330139160156,True
+cgl_76.catsp,Neighbourhood Search,inf,0.010451078414916992,False
+cgl_76.catsp,GRASP,inf,0.31918811798095703,False
+cgl_107.catsp,Greedy,1006274.0,0.0008521080017089844,True
+cgl_107.catsp,Neighbourhood Search,6381.0,0.3304769992828369,True
+cgl_107.catsp,GRASP,inf,1.1876318454742432,False
+cgl_37.catsp,Greedy,2003385.0,0.00012302398681640625,True
+cgl_37.catsp,Neighbourhood Search,inf,0.0021779537200927734,False
+cgl_37.catsp,GRASP,5403.0,0.11182188987731934,True
+cgl_72.catsp,Greedy,3006643.0,0.0003991127014160156,True
+cgl_72.catsp,Neighbourhood Search,inf,0.008866071701049805,False
+cgl_72.catsp,GRASP,inf,0.22250008583068848,False
+cgl_70.catsp,Greedy,3007876.0,0.0003788471221923828,True
+cgl_70.catsp,Neighbourhood Search,inf,0.008048057556152344,False
+cgl_70.catsp,GRASP,inf,0.24977588653564453,False
+cgl_32.catsp,Greedy,1004407.0,9.012222290039062e-05,True
+cgl_32.catsp,Neighbourhood Search,6369.0,0.002871990203857422,True
+cgl_32.catsp,GRASP,5111.0,0.06272292137145996,True
+cgl_48.catsp,Greedy,4005108.0,0.00018787384033203125,True
+cgl_48.catsp,Neighbourhood Search,inf,0.0029380321502685547,False
+cgl_48.catsp,GRASP,inf,0.0953059196472168,False
+cgl_70b.catsp,Greedy,3004285.0,0.0003821849822998047,True
+cgl_70b.catsp,Neighbourhood Search,inf,0.004992008209228516,False
+cgl_70b.catsp,GRASP,inf,0.49571776390075684,False
+cgl_88.catsp,Greedy,3009488.0,0.0005791187286376953,True
+cgl_88.catsp,Neighbourhood Search,inf,0.01442098617553711,False
+cgl_88.catsp,GRASP,inf,0.4225289821624756,False
+cgl_51.catsp,Greedy,2011075.0,0.00023126602172851562,True
+cgl_51.catsp,Neighbourhood Search,inf,0.006141185760498047,False
+cgl_51.catsp,GRASP,inf,0.13246989250183105,False
+cgl_48b.catsp,Greedy,3003996.0,0.00019621849060058594,True
+cgl_48b.catsp,Neighbourhood Search,inf,0.002508878707885742,False
+cgl_48b.catsp,GRASP,inf,0.13021516799926758,False
+cgl_73.catsp,Greedy,3004435.0,0.00041222572326660156,True
+cgl_73.catsp,Neighbourhood Search,inf,0.011928796768188477,False
+cgl_73.catsp,GRASP,inf,0.3179299831390381,False
+cgl_57.catsp,Greedy,3005582.0,0.0002570152282714844,True
+cgl_57.catsp,Neighbourhood Search,inf,0.004849910736083984,False
+cgl_57.catsp,GRASP,inf,0.13125896453857422,False
