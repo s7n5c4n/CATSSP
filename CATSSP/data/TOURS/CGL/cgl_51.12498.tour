@@ -1,9 +1,33 @@
 NAME : cgl_51.12498.tour
 COMMENT : Length = 12498
-COMMENT : Found by LKH-3 [Keld Helsgaun] Fri Nov  8 17:38:20 2024
+COMMENT : Found by LKH-3 [Keld Helsgaun] Thu Jun 26 21:26:49 2025
 TYPE : TOUR
 DIMENSION : 52
 TOUR_SECTION
+32
+33
+31
+34
+35
+36
+39
+38
+37
+40
+43
+41
+42
+44
+46
+47
+45
+48
+49
+50
+51
+52
+10
+11
 12
 4
 3
@@ -19,42 +43,18 @@ TOUR_SECTION
 15
 16
 17
-18
 19
+18
 20
 21
-22
 24
 23
+22
 27
-26
 25
+26
 30
 29
 28
-32
-31
-33
-34
-35
-36
-39
-38
-37
-40
-43
-41
-42
-44
-45
-46
-47
-48
-49
-50
-51
-52
-10
-11
 -1
 EOF

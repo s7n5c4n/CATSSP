@@ -1,9 +1,22 @@
 NAME : cgl_88.10431.tour
 COMMENT : Length = 10431
-COMMENT : Found by LKH-3 [Keld Helsgaun] Fri Nov  8 17:38:22 2024
+COMMENT : Found by LKH-3 [Keld Helsgaun] Thu Jun 26 21:26:50 2025
 TYPE : TOUR
 DIMENSION : 89
 TOUR_SECTION
+86
+87
+40
+43
+42
+88
+39
+41
+44
+45
+36
+37
+38
 59
 58
 46
@@ -11,12 +24,12 @@ TOUR_SECTION
 48
 60
 49
-57
 56
-52
-55
-51
+57
 53
+55
+52
+51
 54
 50
 66
@@ -26,14 +39,14 @@ TOUR_SECTION
 70
 71
 72
-73
 74
-76
+73
 78
-77
-79
-75
 80
+79
+77
+75
+76
 81
 82
 83
@@ -46,8 +59,8 @@ TOUR_SECTION
 5
 4
 1
-2
 3
+2
 19
 20
 18
@@ -55,11 +68,11 @@ TOUR_SECTION
 16
 14
 15
-13
+10
 9
+13
 12
 11
-10
 8
 7
 6
@@ -80,18 +93,5 @@ TOUR_SECTION
 32
 84
 85
-87
-86
-88
-43
-41
-40
-42
-39
-45
-44
-36
-37
-38
 -1
 EOF
